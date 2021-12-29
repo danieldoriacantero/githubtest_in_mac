@@ -1,2 +1,2 @@
-alert("hola mundo")
+alert(" mundo")
 alert("editado")
